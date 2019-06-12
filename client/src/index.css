@@ -16,6 +16,14 @@ body {
   margin: 1rem auto;
 }
 
+.movie-card a {
+  text-decoration: none;
+}
+
+.movie-card h2 {
+  margin-top: 0;
+}
+
 .movie-director {
   padding: 4px 0;
   font-size: 0.8rem;
@@ -68,5 +76,6 @@ body {
 
 .home-button {
   padding: 5px 10px;
+  text-decoration: none;
   background-color: lightskyblue;
 }
